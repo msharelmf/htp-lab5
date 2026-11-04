@@ -1,5 +1,5 @@
 {
-  "name": "@isk6708/demo-github-test",
+  "name": "@msharelmf/htp-lab5",
   "version": "1.0.0",
   "description": "This is a package to demo releasing in GitHub.",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/wulfland/package-recipe.git"
   },
-  "author": "Radja",
+  "author": "Sharel",
   "license": "MIT",
   "jest": {
     "verbose": true,
