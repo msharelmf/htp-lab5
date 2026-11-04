@@ -1,4 +1,5 @@
-// index.js
-module.exports = function greet () {
-  return 'Hello world! Sharel'
+function greet() {
+    return 'Hello world! Sharel'
 }
+
+module.exports = greet
